@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="get_devices">Get Devices</string>
+    <string name="action_retry">Retry</string>
+    <string name="toast_internet_connection">Please check your internet connection.</string>
+    <string name="toast_something_went_wrong">Something went wrong.</string>
+
+    <!--Device List-->
+    <string name="name">Name:\u0020</string>
+    <string name="model">Model:\u0020</string>
+    <string name="device_type">Device Type:\u0020</string>
+</resources>
